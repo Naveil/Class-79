@@ -1,0 +1,8 @@
+body{
+    text-align:center;
+}
+
+#sort_button{
+    display:none;
+    width:80px;
+}
